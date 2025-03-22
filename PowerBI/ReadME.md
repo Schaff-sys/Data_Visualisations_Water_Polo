@@ -1,6 +1,3 @@
-Here's a structured README for your **Power BI dashboard**, summarizing its key features and functionalities:  
-
----
 
 # **Power BI Dashboard: Club Natació Atlètic Barceloneta - Champions League Analysis**  
 
@@ -53,6 +50,4 @@ This Power BI dashboard provides an in-depth analysis of **Club Natació Atlèti
 ## **License**  
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 
----
 
-This README provides clear instructions on what’s included in the Power BI dashboard, how users can interact with it, and possible areas for future enhancement. Let me know if you need any modifications! 🚀
