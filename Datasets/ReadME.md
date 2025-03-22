@@ -1,7 +1,3 @@
-Here's a structured README for your **Excel file**, explaining its purpose, structure, and usage:  
-
----
-
 # **Excel Data Processing: Club Natació Atlètic Barceloneta - Champions League Data**  
 
 ## **Overview**  
@@ -40,6 +36,3 @@ This Excel file serves as the **central data processing hub** for Club Natació 
 ## **License**  
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 
----
-
-This README ensures clarity on how the Excel file functions, how users can update it, and how it integrates with the rest of your analysis workflow. Let me know if you want any refinements! 🚀
